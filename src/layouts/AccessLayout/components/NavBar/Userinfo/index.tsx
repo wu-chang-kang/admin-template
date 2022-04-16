@@ -26,7 +26,7 @@ const UserinfoDropdown: React.FC<UserinfoDropdownProps> = ({ onLogout }) => {
         <a
           target="_blank"
           rel="noopener"
-          href="https://github.com/Col0ring/umi-admin-template"
+          href="https://github.com/wu-chang-kang/admin-template"
         >
           Github
         </a>
