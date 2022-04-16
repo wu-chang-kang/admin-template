@@ -21,7 +21,7 @@ import { transformRoutes } from '../utils/route';
  * key:唯一标示，一般来说用 path 就可以了，但是如果 path 相同可以自己写key
  * activeMenu：对应路由菜单栏选中的实际路径
  * keepAlive:{},对象，用于keepAlive组件的属性配置
- * roles:[]，静态权限
+ * roles:[]，静态权限 
  * authLayout:是否跳过最外层的验证直接进入 layout 内层验证
  */
 // 白名单
